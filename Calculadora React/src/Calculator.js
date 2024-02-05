@@ -51,8 +51,8 @@ const Calculator = () => {
               <Button variant="outline-danger" onClick={handleClear}>
                 C
               </Button>
-              <div className="additional-text">By: Wembie</div>
             </div>
+            <div className="created-by">By: Wembie</div>
           </div>
         </Col>
       </Row>
