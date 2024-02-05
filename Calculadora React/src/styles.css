@@ -132,3 +132,10 @@
 .buttons button:active {
   background-color: #d9d9d9;
 }
+
+.created-by {
+  font-size: 16px; /* Puedes ajustar el tamaño de la fuente según tus preferencias */
+  color: #555; /* Color del texto */
+  text-align: center; /* Alineación del texto */
+  margin-top: 10px; /* Espacio superior */
+}
