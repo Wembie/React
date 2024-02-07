@@ -31,7 +31,7 @@ const Calculator = () => {
             <div className="input">{input}</div>
             <div className="result">{result}</div>
             <div className="buttons">
-              {[7, 8, 9, "÷", 4, 5, 6, "×", 1, 2, 3, "-", 0, ".", "+", "="].map(
+              {[7, 8, 9, "/", 4, 5, 6, "*", 1, 2, 3, "-", 0, ".", "+", "="].map(
                 (value) => (
                   <Button
                     key={value}
